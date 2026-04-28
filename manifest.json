@@ -1,0 +1,52 @@
+{
+  "slug": "talent-software-services-inc-senior-manager-clinical-trials-d589fe7b",
+  "generated_at": "2026-04-28T15:53:51.828952+00:00",
+  "renderer_version": "2026-04-28.2",
+  "catalog_version": "2026-04-28",
+  "jd_corpus_size": 22971,
+  "datapoints": {
+    "industry": "pharma-biotech",
+    "role_band": "leader-other",
+    "workflow_scope": "Clinical-trial data lock per 21 CFR Part 11",
+    "regimes": [],
+    "tools": [],
+    "top_practices": [],
+    "top_activities": []
+  },
+  "selected_bullet_ids": [
+    15,
+    69,
+    67,
+    66,
+    58,
+    21,
+    59,
+    17,
+    8,
+    14,
+    22,
+    75
+  ],
+  "selected_bullet_sections": [
+    "SCE Lead",
+    "Aetna BA",
+    "Aetna BA",
+    "Aetna BA",
+    "SCE Lead",
+    "SCE Lead",
+    "SCE Lead",
+    "SCE Lead",
+    "SCE Lead",
+    "SCE Lead",
+    "SCE Lead",
+    "AmEx BA/SD"
+  ],
+  "doc_rows": 8,
+  "op_view_kind": "gxp-validation-flow",
+  "prod_view_title": "Clinical-trial data lock per 21 CFR Part 11",
+  "workflow_coverage": {
+    "matched_one": true,
+    "industry_workflows_in_catalog": 39
+  },
+  "cousins": []
+}
