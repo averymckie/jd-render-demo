@@ -1,20 +1,21 @@
 # Avery McKie
 
-**Service Continuity / Engagement Lead**
-
 averymckie@gmail.com
+
+## Summary
+
+Engagement and service-continuity lead with experience translating regulated-data governance into operational controls, building portfolio-level executive reporting across SLA, incident, and readiness signals, and tracing production incidents to permanent root cause. Recent work spans electric-utility OT-to-IT trust boundaries (NERC-CIP) and healthcare-payer requirements translation (HIPAA), with consistent patterns of cross-functional facilitation, decision-artifact production, and methodology sign-off ahead of downstream distribution.
 
 ## Cover Note
 
 Hiring team at Talent Software Services, Inc —
 
-I am writing about the Senior Manager, Clinical Trials role. My recent work has been adjacent to this scope rather than directly in it; selected evidence below covers the closest analogous engagements. Happy to walk through the bridge on a call.
+I am writing to apply for the Senior Manager, Clinical Trials role. My recent work has been adjacent to clinical-trial operations rather than directly in them. At Southern California Edison I led service-continuity engagements that translated regulated-data governance into operational controls, with sign-off authority over the documentation backing each readiness gate. I also created portfolio-level executive reporting that connected SLA adherence, incident trends, and go/no-go readiness into a consolidated operational view, reconciling delivery-team data with cost and schedule baselines held separately by finance. At American Express I traced production incidents to permanent root cause and established the configuration-gap patterns that prevented recurrence.
 
-- Defined operational readiness requirements for a compliance-driven ingestion pipeline moving data from a NERC-regulated environment to an enterprise data store, covering asset classification, credential lifecycle governance, encrypted transfer, and dual-access authorization methods traceable to specific regulatory and operational constraints.
-- Specified data integration requirements for analytic datasets drawing from medical, pharmacy, lab, and utilization records to evaluate program effectiveness; documented join logic for each source combination and data quality rules for each field; and obtained derivation methodology sign-off to prevent flawed outputs from reaching distribution.
-- Traced recurring production incidents to permanent root cause through behavioral analysis of logs and process records, documenting failure patterns, identifying configuration gaps for each failure class, and verifying corrections against historical recurrence data to confirm the fix held.
+The shape of the work transfers — requirements rigor under regulatory constraint, cross-functional stakeholder facilitation, evidence-based gate decisions — even though the specific regulatory regimes I have operated under are different from yours. Happy to walk through the bridge on a call.
 
 Avery McKie
+
 averymckie@gmail.com
 
 ## Selected Experience

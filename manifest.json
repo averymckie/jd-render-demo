@@ -1,7 +1,7 @@
 {
   "slug": "talent-software-services-inc-senior-manager-clinical-trials-d589fe7b",
-  "generated_at": "2026-04-28T15:53:51.828952+00:00",
-  "renderer_version": "2026-04-28.2",
+  "generated_at": "2026-04-29T01:09:20.888417+00:00",
+  "renderer_version": "2026-04-28.3",
   "catalog_version": "2026-04-28",
   "jd_corpus_size": 22971,
   "datapoints": {
@@ -42,11 +42,27 @@
     "AmEx BA/SD"
   ],
   "doc_rows": 8,
-  "op_view_kind": "gxp-validation-flow",
+  "op_view_kind": "dfd-multi-level",
+  "prod_view_kind": "bpmn-product-view",
   "prod_view_title": "Clinical-trial data lock per 21 CFR Part 11",
+  "renderer_engines": [
+    {
+      "engine": "bpmn-js",
+      "version": "16.4.0",
+      "license": "EPL-2.0",
+      "invoked": "CDN"
+    },
+    {
+      "engine": "D3-style inline SVG",
+      "version": "(handwritten)",
+      "license": "n/a",
+      "invoked": "inline"
+    }
+  ],
   "workflow_coverage": {
     "matched_one": true,
     "industry_workflows_in_catalog": 39
   },
-  "cousins": []
+  "cousins": [],
+  "pdf_path": "bundle.pdf"
 }
